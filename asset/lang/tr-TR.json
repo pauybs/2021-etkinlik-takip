@@ -1,0 +1,60 @@
+{
+    "welcome": "Welcome to My App",
+    "onBoard": {
+      "page1": {
+        "title": "Make It Good",
+        "desc": "You are not alone. You have unique abiltiyto go to anther world"
+      },
+      "page2": {
+        "title": "Make It Good",
+        "desc": "You are not alone. You have unique abiltiyto go to anther world"
+      },
+      "page3": {
+        "title": "Make It Good",
+        "desc": "You are not alone. You have unique abiltiyto go to anther world"
+      }
+    },
+  
+    "login": {
+      "tab1": "Login",
+      "tab2": "SignUp",
+      "email": "Email",
+      "password": "Password",
+      "forgotText": "Forgot Password",
+      "login": "Login",
+      "dontAccount": "Dont have account"
+    },
+    "home": {
+      "title": "Merhaba",
+      "upcomingEvents" : "Yaklaşan etkinlikler",
+      "findEvent": "Etkinliğini bul",
+      "scrollEvent":{
+        "all": "Tümü",
+        "science": "Bilim",
+        "sport": "Spor",
+        "technology": "Teknoloji",
+        "artAndCulture": "Kültür & Sanat",
+        "history": "Tarih"
+      },
+      "suggested": "Önerilen",
+      "viewAll": "Hepsini Gör",
+      "willFriendsGo": "Arkadaşlarının Gidecekleri"
+    },
+    "notificaiton": {
+      "notificaitons": "Bildirimler",
+      "following": "started following",
+      "postTagged": "tagged you in a post",
+      "follow":"Takip Et"
+  
+    },
+    "profile" :{
+      "title": "Profil",
+      "follow": "Takip Et"
+    },
+    "sendFeed": {
+      "cancel":"İptal",
+      "send": "Gönder",
+      "shareYourThought" : "Düşüncelerini paylaş.."
+    }
+  }
+  
